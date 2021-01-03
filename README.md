@@ -20,7 +20,8 @@ Features include...
 	- Increase/decrease player's max health
 	- Give players permanent [potion effects](https://minecraft.gamepedia.com/Status_effect)
 - Higher difficulty
-	- Chance to [Hard](https://minecraft.gamepedia.com/Difficulty#Hard) difficulty on all worlds
+	- Change to [Hard](https://minecraft.gamepedia.com/Difficulty#Hard) difficulty on all worlds
+		- Not hard enough? I included options to increase damage taken across the board
 	- Force high [regional difficulty](https://minecraft.gamepedia.com/Difficulty#Regional_difficulty) to make new chunks dangerous by default
 	- Options to disable natural healing, healing from potions, healing from beacons, or healing from golden apples
 - Customizable!

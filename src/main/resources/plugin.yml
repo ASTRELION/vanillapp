@@ -1,0 +1,10 @@
+name: Vanillapp
+main: com.astrelion.Vanillapp.Vanillapp
+version: 0.1.16
+api-version: 1.16
+
+commands:
+  vpp:
+    description: Vanilla++ base command
+    usage: /vpp
+    permission: vpp.vpp

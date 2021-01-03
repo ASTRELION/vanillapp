@@ -1,5 +1,5 @@
 # Vanilla++
-A Minecraft server plugin that expands on classic vanilla Minecraft.
+A Minecraft server plugin that expands and enhances classic vanilla Minecraft. This plugin is intended to retain the vanilla feel of Minecraft while adding new ways to explore and survive.
 
 Features include (WIP),
 - More mob types (created with combinations of existing mobs)

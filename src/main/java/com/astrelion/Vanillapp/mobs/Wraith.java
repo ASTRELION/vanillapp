@@ -63,8 +63,6 @@ public class Wraith extends AMob
         ));
         wraith.addPotionEffects(effects);
 
-        wraith.playEffect(EntityEffect.WOLF_SMOKE);
-
         BukkitScheduler scheduler = spawnController.getVanillapp().getServer().getScheduler();
         scheduler.scheduleSyncRepeatingTask(spawnController.getVanillapp(), () -> effectThing(wraith), 0L, 20L);
 
@@ -78,8 +76,8 @@ public class Wraith extends AMob
 
     public Listener effectThing(Entity entity)
     {
-        entity.playEffect(EntityEffect.FIREWORK_EXPLODE);
-        entity.getLocation().getWorld().playEffect(entity.getLocation(), Effect.DRAGON_BREATH, 1);
+        //entity.playEffect(EntityEffect.FIREWORK_EXPLODE);
+        //entity.getLocation().getWorld().playEffect(entity.getLocation(), Effect.DRAGON_BREATH, 1);
 
         return null;
     }

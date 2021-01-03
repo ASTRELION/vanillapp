@@ -19,11 +19,14 @@ Features include...
 - More player options
 	- Increase/decrease player's max health
 	- Give players permanent [potion effects](https://minecraft.gamepedia.com/Status_effect)
-- Force higher difficulty
-	- Force [Hard](https://minecraft.gamepedia.com/Difficulty#Hard) difficulty on all worlds
+- Higher difficulty
+	- Chance to [Hard](https://minecraft.gamepedia.com/Difficulty#Hard) difficulty on all worlds
 	- Force high [regional difficulty](https://minecraft.gamepedia.com/Difficulty#Regional_difficulty) to make new chunks dangerous by default
+	- Options to disable natural healing, healing from potions, healing from beacons, or healing from golden apples
 - Customizable!
-	- Enable/disable **any** of the features above as you see fit :)
+	- Enable/disable **any** of the features above as you see fit
+	- All mobs can be enabled/disabled
+	- Some added mobs have potion effects that could ruin regular mob farms, don't worry, you can disable those, too :)
 	- Example configs will be provided for different types of servers
 	
 ## Installation

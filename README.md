@@ -2,7 +2,7 @@
 A Minecraft server plugin that expands and enhances classic vanilla Minecraft. This plugin is intended to retain the vanilla feel of Minecraft while adding new ways to explore and survive. In addition to just making Minecraft a bit more interesting to play, the plugin also includes features to make Hard Minecraft even harder!
 
 Features include...
-- More mob types (created with combinations of existing mobs)
+- More mob types, like
 	- Bandits,
 	- Brood Mothers,
 	- Player Ghosts,

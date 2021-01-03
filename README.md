@@ -19,6 +19,8 @@ Features include...
 - More player options
 	- Increase/decrease player's max health
 	- Give players permanent [potion effects](https://minecraft.gamepedia.com/Status_effect)
+	- Optionally prevent some...annoying...causes of death
+		- Disable death by falling, the void, etc.
 - Higher difficulty
 	- Change to [Hard](https://minecraft.gamepedia.com/Difficulty#Hard) difficulty on all worlds
 		- Not hard enough? I included options to increase damage taken across the board
